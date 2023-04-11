@@ -1,0 +1,12 @@
+[submodule "Papermill-Ejemplo-1"]
+	path = Papermill-Ejemplo-1
+	url = git@github.com:LeandroNardiTaligent/Papermill-Ejemplo-1.git
+[submodule "Papermill-Ejemplo-2"]
+	path = Papermill-Ejemplo-2
+	url = git@github.com:LeandroNardiTaligent/Papermill-Ejemplo-2.git
+[submodule "Papermill-Ejemplo-3"]
+	path = Papermill-Ejemplo-3
+	url = git@github.com:LeandroNardiTaligent/Papermill-Ejemplo-3.git
+[submodule "Papermill-Ejemplo-4"]
+	path = Papermill-Ejemplo-4
+	url = git@github.com:LeandroNardiTaligent/Papermill-Ejemplo-4.git
