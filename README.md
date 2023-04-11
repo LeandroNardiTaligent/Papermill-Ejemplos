@@ -1,4 +1,4 @@
-# Mi proyecto de Papermill
+# Ejemplos Papermill
 
 <img src="https://th.bing.com/th/id/R.6920b7a1d49c34ccb3ed8e8c66fa89d5?rik=IsdEqlRjKLbOVQ&pid=ImgRaw&r=0" width="500">
 
@@ -11,10 +11,10 @@ Este repositorio contiene información y ejemplos sobre cómo usar Papermill.
 
 Este repositorio contiene 4 submódulos, cada uno con un ejemplo de caso de uso de Papermill:
 
-1. Submódulo 1: https://github.com/LeandroNardiTaligent/Papermill-Ejemplo-1
-2. Submódulo 2: https://github.com/LeandroNardiTaligent/Papermill-Ejemplo-2
-3. Submódulo 3: https://github.com/LeandroNardiTaligent/Papermill-Ejemplo-3
-4. Submódulo 4: https://github.com/LeandroNardiTaligent/Papermill-Ejemplo-4
+1. Submódulo 1: Ejemplo de uso de Papermil mediante main.ipynb
+2. Submódulo 2: Ejemplo de uso de Papermil mediante main.bat (scripting)
+3. Submódulo 3: Ejemplo de uso de Papermil con logs
+4. Submódulo 4: Ejemplo de uso de Papermil con distintos kernels (python, java, julia)
 
 ## Cómo usar este repositorio
 
