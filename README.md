@@ -41,8 +41,6 @@ Para obtener más información sobre Papermill y cómo usarlo, visita la [docume
 
 <br>
 
-## <center> Made with &#x2764; for Advanced Analitycs</center>
+### <p align="center"> Made with &#x2764; for Advanced Analitycs</p>
 
-<br>
-
-<center><a href="https://www.taligent.com.ar/es/"><img src="https://www.taligent.com.ar/wp-content/uploads/2022/09/logo-e1664303535353-300x66.png" width='200'></a></center>
+<p align="center"><a href="https://www.taligent.com.ar/es/"><img src="https://www.taligent.com.ar/wp-content/uploads/2022/09/logo-e1664303535353-300x66.png" width='200'></a></p>
